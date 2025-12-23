@@ -1,0 +1,12 @@
+h1 {
+    font-size: 70px;
+    font-weight: 900;
+}
+button {
+    background-color: BLUE;
+    color: white;
+    padding: 25px 70px;
+}
+button:hover {
+    background-color: green;
+}
